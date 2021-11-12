@@ -1,11 +1,23 @@
 import React from 'react';
+import { useState, useEffect } from "react"
 import logo from './logo.svg';
-import './App.css';
 import Navbar from 'react-bootstrap/Navbar'
 import Container from 'react-bootstrap/Container'
+import Service from './Service.js'
+import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
+
+	const [services, setServices] = useState([]);
+
+    useEffect(() => {
+        fetch('https://check.patente.it/vpnstatus?json')
+        .then(response => response.json())
+        .then(data => setServices(data._container[0]._container))
+      },[])
+
+
   return (
     <div className="App">
 
@@ -23,6 +35,11 @@ function App() {
           </Navbar.Brand>
         </Container>
       </Navbar>
+
+      {services.map((service, index) => (
+        <Service desc={service.descrizione} stato={service.stato}/>
+        ))}
+
       </div>
   );
 }
