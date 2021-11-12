@@ -1,28 +1,28 @@
 {
   "files": {
     "main.css": "/sida_watch/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/sida_watch/static/js/main.0a28efc5.chunk.js",
-    "main.js.map": "/sida_watch/static/js/main.0a28efc5.chunk.js.map",
-    "runtime-main.js": "/sida_watch/static/js/runtime-main.8bc7b632.js",
-    "runtime-main.js.map": "/sida_watch/static/js/runtime-main.8bc7b632.js.map",
+    "main.js": "/sida_watch/static/js/main.cd00bbfb.chunk.js",
+    "main.js.map": "/sida_watch/static/js/main.cd00bbfb.chunk.js.map",
+    "runtime-main.js": "/sida_watch/static/js/runtime-main.b48afd2e.js",
+    "runtime-main.js.map": "/sida_watch/static/js/runtime-main.b48afd2e.js.map",
     "static/css/2.383c0125.chunk.css": "/sida_watch/static/css/2.383c0125.chunk.css",
-    "static/js/2.ec7f645c.chunk.js": "/sida_watch/static/js/2.ec7f645c.chunk.js",
-    "static/js/2.ec7f645c.chunk.js.map": "/sida_watch/static/js/2.ec7f645c.chunk.js.map",
-    "static/js/3.cb45aebf.chunk.js": "/sida_watch/static/js/3.cb45aebf.chunk.js",
-    "static/js/3.cb45aebf.chunk.js.map": "/sida_watch/static/js/3.cb45aebf.chunk.js.map",
+    "static/js/2.66687b84.chunk.js": "/sida_watch/static/js/2.66687b84.chunk.js",
+    "static/js/2.66687b84.chunk.js.map": "/sida_watch/static/js/2.66687b84.chunk.js.map",
+    "static/js/3.709b45a8.chunk.js": "/sida_watch/static/js/3.709b45a8.chunk.js",
+    "static/js/3.709b45a8.chunk.js.map": "/sida_watch/static/js/3.709b45a8.chunk.js.map",
     "index.html": "/sida_watch/index.html",
     "service-worker.js": "/sida_watch/service-worker.js",
     "service-worker.js.map": "/sida_watch/service-worker.js.map",
     "static/css/2.383c0125.chunk.css.map": "/sida_watch/static/css/2.383c0125.chunk.css.map",
     "static/css/main.8c8b27cf.chunk.css.map": "/sida_watch/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.ec7f645c.chunk.js.LICENSE.txt": "/sida_watch/static/js/2.ec7f645c.chunk.js.LICENSE.txt",
+    "static/js/2.66687b84.chunk.js.LICENSE.txt": "/sida_watch/static/js/2.66687b84.chunk.js.LICENSE.txt",
     "static/media/logo.103b5fa1.svg": "/sida_watch/static/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8bc7b632.js",
+    "static/js/runtime-main.b48afd2e.js",
     "static/css/2.383c0125.chunk.css",
-    "static/js/2.ec7f645c.chunk.js",
+    "static/js/2.66687b84.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.0a28efc5.chunk.js"
+    "static/js/main.cd00bbfb.chunk.js"
   ]
 }
